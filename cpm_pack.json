@@ -4,5 +4,8 @@
     "url": "",
     "description": "",
     "author": "",
-    "license": ""
+    "license": "",
+    "dependencies": {
+        "A": "0.1.0"
+    }
 }
